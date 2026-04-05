@@ -87,11 +87,18 @@ community ownership of AI tools
 
 ---
 
-## Credits
+## Credits & References
 
-Forked and adapted from 
-[sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw).  
-OpenClaw gateway replaced with Anthropic Claude API.
+**Forked and adapted from:**  
+[sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw) — MIT License  
+Original concept: voice assistant on Pi Zero W + WhisPlay board, powered by OpenClaw/OpenAI.
+
+**Hardware:**  
+[PiSugar WhisPlay](https://github.com/PiSugar/whisplay-ai-chatbot) — setup guide and hardware driver
+
+**Key modifications in this fork:**  
+- OpenClaw gateway replaced with Anthropic Claude API  
+- Documented as a practice-based PhD research artefact
 
 ---
 
@@ -99,3 +106,4 @@ OpenClaw gateway replaced with Anthropic Claude API.
 
 MIT# pizero-claude-assistant
 "A voice assistant built on Raspberry Pi Zero 2W + WhisPlay, powered by the Claude API — developed as a practice-based research artefact for The Silicon Road PhD."
+
